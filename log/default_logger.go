@@ -8,6 +8,8 @@ import (
 	"github.com/fatih/color"
 )
 
+
+
 type defaultLogger struct {
 	*log.Logger
 }
